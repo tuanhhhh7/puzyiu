@@ -1,0 +1,80 @@
+/* * {
+  outline: 1px solid red !important;
+} */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f6e5e0;
+    font-family: 'Courier New' ,'Arial', sans-serif;
+    flex-direction: column;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    color: #d48166;
+    padding-bottom: 10%;
+  }
+  
+  .buttons {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  
+  .yes-button, .no-button {
+    transition: all 0.3s ease;
+}
+
+.yes-button:hover {
+    background-color: #bdd8bd;
+    transform: scale(2.0);
+    box-shadow: 0px 0px 10px rgba(76, 175, 80, 0.5);
+}
+
+.no-button:hover {
+    background-color: #e3d0e3;
+    transform: scale(1.2);
+    box-shadow: 0px 0px 10px rgba(244, 67, 54, 0.5);
+}
+
+.yes-button:active, .no-button:active {
+    transform: scale(0.9);
+}
+
+  .yes-button {
+    font-family: 'Courier New';
+    font-weight: bold;
+    font-size: 2.0em;
+    padding: 10px 20px;
+    margin-right: 30px;
+    background-color: #a2c8a2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .no-button {
+    font-family: 'Courier New';
+    font-size: 1.5em;
+    padding: 10px 20px;
+    background-color: #d8bdd8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .gif_container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
