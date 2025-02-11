@@ -24,17 +24,17 @@
 })();
 
 const messages = [
-  "Cậu chắc chưaaa?",
-  "Riel khum ???",
-  "Nghĩ kĩ nha cậu ơi?",
-  "Cậu hong thích z lun...",
-  "Thật sự lun!",
-  "Nếu cậu bấm nữa, tớ sẽ buồn lắm đó...",
-  "Tớ chỉ muốn đơn giản thoi mà...",
-  "Cậu tệ quá...",
-  "Thôi được rồi, tớ sẽ không hỏi nữa...",
-  "Pnhuuuuuuuuuu!!!",
-  "Đùa thôi, làm ơn nói đồng ý giùmmm! =))"
+  "anh chắc chưaaa?",
+  "thịc khum ???",
+  "nghĩ kĩ nha yêu",
+  "hong thích z lun...",
+  "ghec",
+  "anh bấm nữa, tui buồn lắm à...",
+  "em chỉ muốn đơn giản thoi",
+  "yêu tệ thật",
+  "ble, khom thèm nữa",
+  "puzyyyyy",
+  "cũng là người yêu sẵn ròi mà, hỏi vui thoi"
 ];
 
 let messageIndex = 0;

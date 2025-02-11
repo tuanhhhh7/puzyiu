@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f6e5e0;
+    background-color: #ccedd6;
     font-family: 'Arial', sans-serif;
 }
 
@@ -14,8 +14,8 @@ body {
 
 .header_text {
     font-family: 'Courier New';
-    font-size: 3em;
-    color: #d48166;
+    font-size: 2.5em;
+    color: #093918;
     margin: 30% 0;
 }
 
