@@ -8,7 +8,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f6e5e0;
+    background-color: #fffec8;
     font-family: 'Courier New' ,'Arial', sans-serif;
     flex-direction: column;
   }
@@ -19,7 +19,7 @@ body {
   
   h1 {
     font-size: 2.5em;
-    color: #d48166;
+    color: #ff6c7d;
     padding-bottom: 10%;
   }
   
@@ -54,7 +54,7 @@ body {
     font-size: 2.0em;
     padding: 10px 20px;
     margin-right: 30px;
-    background-color: #a2c8a2;
+    background-color: #ff95bc;
     color: white;
     border: none;
     border-radius: 5px;
@@ -65,8 +65,8 @@ body {
     font-family: 'Courier New';
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #d8bdd8;
-    color: white;
+    background-color: #fff2df;
+    color: rgb(255, 155, 94);
     border: none;
     border-radius: 5px;
     cursor: pointer;
